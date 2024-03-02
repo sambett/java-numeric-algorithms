@@ -14,6 +14,7 @@ This project aims to provide a flexible and easy-to-use interface for developers
 
 -Provides efficient matrix multiplication implementation
 -Offers both direct and iterative methods for system resolution with an improved performance.
+
 **Note**
 
 This is a school project and is open to improvements and further testing.
