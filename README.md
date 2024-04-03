@@ -1,9 +1,16 @@
 Developers: Siwar Ben Rhouma, Selma Bettaieb, and Firas Barkia
+
 Supervisor: Dr. Sirine MARRAKCHI
+
 Project: Algorithmes Numériques 
+
 Course: Cycle d'ingénieur [cycle engineering program]
+
 Institution: Faculté des Sciences de Sfax [Faculty of Sciences of Sfax]
+
 Department: Informatique et Communications [Department of Computer Science and Communications]
+
+
 
 
 This is a Java interface for performing basic linear algebra calculations, including:
