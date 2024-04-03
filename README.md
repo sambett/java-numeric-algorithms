@@ -1,3 +1,11 @@
+Developers: Siwar Ben Rhouma, Selma Bettaieb, and Firas Barkia
+Supervisor: Dr. Sirine MARRAKCHI
+Project: Algorithmes Numériques 
+Course: Cycle d'ingénieur [cycle engineering program]
+Institution: Faculté des Sciences de Sfax [Faculty of Sciences of Sfax]
+Department: Informatique et Communications [Department of Computer Science and Communications]
+
+
 This is a Java interface for performing basic linear algebra calculations, including:
 
 Matrix multiplication (matrix-matrix and matrix-vector)
@@ -8,7 +16,7 @@ This project aims to provide a flexible and easy-to-use interface for developers
 
 **Features**
 
--Supports dense and sparse matrices and so many other types such(Symetric ones /definete positive ) .
+-Supports dense and sparse matrices and so many other types such as symmetric ones /definite positive ).
 
 -Optimized algorithms for banded matrices (lower and upper) and triangular matrices to improve performance.
 
