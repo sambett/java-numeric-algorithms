@@ -1,46 +1,67 @@
-Developers: Siwar Ben Rhouma, Selma Bettaieb, and Firas Barkia
+# 🧮 Linear Algebra Calculator
 
-Supervisor: Dr. Sirine MARRAKCHI
+[![Made with Java](https://img.shields.io/badge/Made%20with-Java-red.svg)](https://www.java.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Video Tutorial](https://img.shields.io/badge/Watch-Tutorial-ff0000)](https://youtu.be/YOUR_VIDEO_ID)
 
-Project: Algorithmes Numériques 
+A powerful and flexible Java interface for performing advanced linear algebra operations and numerical computations. Built with performance and usability in mind.
 
-Course: Cycle d'ingénieur [cycle engineering program]
+## 👥 Team
 
-Institution: Faculté des Sciences de Sfax [Faculty of Sciences of Sfax]
+**Developers:**
+- Siwar Ben Rhouma
+- Selma Bettaieb
+- Firas Barkia
 
-Department: Informatique et Communications [Department of Computer Science and Communications]
+**Academic Supervisor:**
+Dr. Sirine MARRAKCHI
+
+## 🏛️ Institution
+Faculty of Sciences of Sfax  
+Department of Computer Science and Communications  
+Engineering Program
+
+## ✨ Features
+
+### Matrix Operations
+- Matrix multiplication (matrix-matrix & matrix-vector)
+- Matrix transpose
+- Matrix inverse
+- Support for multiple matrix types:
+  - Dense matrices
+  - Sparse matrices
+  - Symmetric matrices
+  - Positive definite matrices
+  - Banded matrices (lower & upper)
+  - Triangular matrices
+
+### System Resolution Methods
+
+#### Direct Methods
+- LU decomposition
+- Gaussian elimination
+  - With pivoting
+  - Without pivoting
+  - Jordan method
+- Cholesky decomposition
+
+#### Iterative Methods
+- Gaussian elimination
+- Jacobi iteration
+
+## 🚀 Performance Optimizations
+- Specialized algorithms for banded and triangular matrices
+- Efficient matrix multiplication implementation
+- Optimized system resolution methods
+- Performance-focused data structures
+
+## 🎓 Educational Context
+This project was developed as part of the Engineering Program at the Faculty of Sciences of Sfax. While fully functional, we welcome contributions and suggestions for improvement.
+
+## 📹 Tutorial
+Watch our video tutorial to get started:  
+[Linear Algebra Calculator Tutorial]([https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/Q1RbJFvSERo)
 
 
-
-
-This is a Java interface for performing basic linear algebra calculations, including:
-
-Matrix multiplication (matrix-matrix and matrix-vector)
-Matrix transpose
-Matrix inverse
-System resolution using direct methods (LU decomposition, Gaussian elimination with/without pivoting, Gaussian elimination (Jordan method), Cholesky decomposition) and iterative methods (Gaussian elimination, Jacobi iteration)
-This project aims to provide a flexible and easy-to-use interface for developers working with numerical algorithms.
-
-**Features**
-
--Supports dense and sparse matrices and so many other types such as symmetric ones /definite positive ).
-
--Optimized algorithms for banded matrices (lower and upper) and triangular matrices to improve performance.
-
--Provides efficient matrix multiplication implementation
--Offers both direct and iterative methods for system resolution with an improved performance.
-
-**Note**
-
-This is a school project and is open to improvements and further testing.
-
-For further information and detailed usage instructions,  contact me.
-![8](https://github.com/sambett/java-numeric-algorithms/assets/130989690/7c97ab87-7e50-4c79-89a8-9074e68a266b)
-![7](https://github.com/sambett/java-numeric-algorithms/assets/130989690/b8d3ee0a-6f34-4cc7-9879-d89b4abd3abe)
-![6](https://github.com/sambett/java-numeric-algorithms/assets/130989690/330ff5f7-6757-4349-b3bd-69c7760360c0)
-![5](https://github.com/sambett/java-numeric-algorithms/assets/130989690/617a4a87-e6cd-4232-b212-38a6f7697fda)
-![4](https://github.com/sambett/java-numeric-algorithms/assets/130989690/cd140aa8-10ea-4e1f-86e5-6ddaa246b7a7)
-![3](https://github.com/sambett/java-numeric-algorithms/assets/130989690/9613ea25-dd60-41aa-a66e-638eff33a19e)
-![2](https://github.com/sambett/java-numeric-algorithms/assets/130989690/0e08846d-2796-40b4-aa7f-74b1d8763f92)
-![1](https://github.com/sambett/java-numeric-algorithms/assets/130989690/037696a2-fcaa-426b-ac89-8f0d752489dd)
-
+---
+*Note: This is an academic project open to improvements and further testing. Feel free to contribute!*
