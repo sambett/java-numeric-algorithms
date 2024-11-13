@@ -59,8 +59,8 @@ Engineering Program
 This project was developed as part of the Engineering Program at the Faculty of Sciences of Sfax. While fully functional, we welcome contributions and suggestions for improvement.
 
 ## 📹 Tutorial
-Watch our video tutorial to get started:  
-[Linear Algebra Calculator Tutorial]([https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/Q1RbJFvSERo)
+Watch our video :  
+[Linear Algebra Calculator ]([https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/Q1RbJFvSERo)
 
 
 ---
